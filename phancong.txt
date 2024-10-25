@@ -1,0 +1,35 @@
+Nhóm: 001
+Tên đề tài: Website bán cây cảnh    
+STT MSSV        Họ Tên                  Trang web                   Công việc
+-------------------------------------------------------------------------------------------------------------------------
+1   B2207574    Thân Quốc Tuấn          trangchu.html,              CSS, header, js xử lý đăng nhập, đăng kí, đặt hàng...
+                                        giohang.html,
+                                        chitietsanpham.html,
+                                        trangcanhan.html,
+                                        admin.html
+-------------------------------------------------------------------------------------------------------------------------
+2   B2203505    Quách Thiếu Khang       cacloaicay.html,            CSS, footer,js header, tìm kiếm, lọc, sắp xếp.....
+                                        cacloaihoa.html,
+                                        phukien.html,
+                                        search.html
+-------------------------------------------------------------------------------------------------------------------------
+3   B2207543    Trương Công Minh        tintuc.html,                Js/CSS,dựng wireframe,viết carousel,kiểm thử......
+                                        lienhe.html   
+-------------------------------------------------------------------------------------------------------------------------
+4   B2207532    Đặng Duy Khoa           gioithieu.html              JS/ CSS,dựng wireframe,kiểm thử bổ sung.....
+-------------------------------------------------------------------------------------------------------------------------
+5   B2207525    Nguyễn Duy Hưng         dangnhap.html               JS/ CSS, dựng wireframe, kiểm thử bổ sung.....
+-------------------------------------------------------------------------------------------------------------------------
+
+
+Ghi chú: !!CHẠY TRÊN LIVE SERVER!!
+
+        -Trang đăng nhập, tài khoản admin (file json):  email:  admin123@gmail.com, 
+                                            mật khẩu:   1234
+        
+         -Tài khoản user sử dụng chức năng đăng kí để tạo (trang đăng kí chung với trang đăng nhập)
+         -Trang admin gồm các chức năng: (xem, thay đổi mật khẩu các tài khoản, quản lý các đơn hàng được đặt, tổng doanh thu được tính = $, có theo dõi số lượng mỗi sản phẩm)
+         -Các sản phẩm có liên kết chi tiết
+         -Có công cụ tìm kiếm, công cụ lọc, công cụ sắp xếp (ở trang cacloaicay.html)
+         -.........
+

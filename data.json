@@ -1,0 +1,204 @@
+{
+    "plants": [
+        {
+            "id": 1,
+            "name": "Mai Vàng Ngày Tết",
+            "image": "./images/products/plants/caymai1.jpg",
+            "type": "Hoa",
+            "price": "500000",
+            "remain": 100
+        },
+        {
+            "id": 2,
+            "name": "Cây Si Bonsai",
+            "image": "./images/products/plants/cay-si-bonsai1.jpg",
+            "type": "cay",
+            "price": "185000",
+            "remain": 100
+        },
+        {
+            "id": 3,
+            "name": "Cây Hoa Tiên Ông(Dạ Lan Hương)",
+            "image": "./images/products/plants/cay-da-lan-huong.jpg",
+            "type": "Hoa",
+            "price": "120000",
+            "remain": 100
+        },
+        {
+            "id": 4,
+            "name": "Cây Vạn Lộc Thủy Sinh",
+            "image": "./images/products/plants/cay-van-loc-.jpg",
+            "type": "cay",
+            "price": "500000",
+            "remain": 100
+        },
+        {
+            "id": 5,
+            "name": "Cây Hương Thảo",
+            "image": "./images/products/plants/cay-huong-thao.jpg",
+            "type": "cay",
+            "price": "180000",
+            "remain": 100
+        },
+        {
+            "id": 6,
+            "name": "Cây Lan Y",
+            "image": "./images/products/plants/cay-lan-y-4.jpg",
+            "type": "cay",
+            "price": "680000",
+            "remain": 100
+        },
+        {
+            "id": 7,
+            "name": "Cây Lưỡi Hổ",
+            "image": "./images/products/plants/cay-luoi-ho-4.jpg",
+            "type": "cay",
+            "price": "5000000",
+            "remain": 100
+        },
+        {
+            "id": 8,
+            "name": "Cây Nha Đam Thủy Sinh",
+            "image": "./images/products/plants/cay-nha-dam-thuy-sinh.png",
+            "type": "cay",
+            "price": "185000",
+            "remain": 100
+        },
+        {
+            "id": 9,
+            "name": "Cây Phú Quý Thủy Sinh",
+            "image": "./images/products/plants/cay-phu-quy-thuy-sinh.jpg",
+            "type": "cay",
+            "price": "120000",
+            "remain": 100
+        },
+        {
+            "id": 10,
+            "name": "Cây Sen Thái",
+            "image": "./images/products/plants/cay-sen-thai-1.jpg",
+            "type": "cay",
+            "price": "200000",
+            "remain": 100
+        },
+        {
+            "id": 11,
+            "name": "Cây Vạn Lộc",
+            "image": "./images/products/plants/cay-van-loc-.jpg",
+            "type": "cay",
+            "price": "180000",
+            "remain": 100
+        },
+        {
+            "id": 12,
+            "name": "Cây Xương Rồng Trạng Nguyên",
+            "image": "./images/products/plants/xuong-rong-trang-nguyen-bui.jpg",
+            "type": "Hoa",
+            "price": "180000",
+            "remain": 100
+        },
+        {
+            "id": 13,
+            "name": "Cây Hoa Trang Đỏ",
+            "image": "./images/products/plants/hoa-trang-do.jpg",
+            "type": "Hoa",
+            "price": "180000",
+            "remain": 100
+        },
+        {
+            "id": 14,
+            "name": "Mai Chỉ Thiên Phong Thủy",
+            "image": "./images/products/plants/mai-chi-thien-phong-thuy.jpg",
+            "type": "Hoa",
+            "price": "100000",
+            "remain": 100
+        },
+        {
+            "id": 15,
+            "name": "Trầu Bà Sữa",
+            "image": "./images/products/plants/trau-ba-sua-1.jpg",
+            "type": "cay",
+            "price": "180000",
+            "remain": 100
+        },
+        {
+            "id": 16,
+            "name": "Xương Rồng Thanh Long",
+            "image": "./images/products/plants/XR-thanh-long.jpg",
+            "type": "Hoa",
+            "price": "320000",
+            "remain": 100
+        },
+        {
+            "id": 17,
+            "name": "Hoa Hồng Valentine",
+            "image": "./images/products/plants/hoa-hong-valentine.jpg",
+            "type": "Hoa",
+            "price": "180000",
+            "remain": 100
+        },
+        {
+            "id": 18,
+            "name": "Hoa Hướng Dương",
+            "image": "./images/products/plants/hoa-huong-duong.jpg",
+            "type": "Hoa",
+            "price": "180000",
+            "remain": 100
+        },
+        {
+            "id": 19,
+            "name": "Hoa Cúc Mâm Xôi",
+            "image": "./images/products/plants/cuc-mam-xoi-giay-bo.jpg",
+            "type": "Hoa",
+            "price": "180000",
+            "remain": 100
+        },
+        {
+            "id": 20,
+            "name": "Hoa Bỉ Ngạn Xanh",
+            "image": "./images/products/plants/hoa-bi-ngan-xanh.jpg",
+            "type": "Hoa",
+            "price": "110000",
+            "remain": 100
+        }
+    ],
+    "tools": [
+        {
+            "id": 21,
+            "name": "Dụng Cụ Làm Vườn Mini",
+            "image": "./images/products/accessories/dung-cu-lam-vuon-mini.jpg",
+            "type": "tool",
+            "price": "180000",
+            "remain": 100
+        },
+        {
+            "id": 22,
+            "name": "Phân Bón Trùn Quế",
+            "image": "./images/products/accessories/phanbontrunque.jpg",
+            "type": "fertilizer",
+            "price": "180000",
+            "remain": 100
+        },
+        {
+            "id": 23,
+            "name": "Sỏi Màu Trang Trí 500gram",
+            "image": "./images/products/accessories/soi-mau-trang-tri-500gr.jpg",
+            "type": "tool",
+            "price": "180000",
+            "remain": 100
+        }
+    ],
+    "users": [
+        {
+            "username": "admin",
+            "email": "admin123@gmail.com",
+            "password": "1234",
+            "type": "admin"
+        },
+        {
+            "username": "asd",
+            "email": "asdasd@gmail.com",
+            "password": "12345A@",
+            "type": "user"
+        }
+    ]
+}
